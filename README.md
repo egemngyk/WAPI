@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 PyQt6 Multi-Platform Widget Manager
 This project aims to provide dynamic widget management for multiple operating systems using PyQt6.
 Architecturally, it supports Windows, macOS/iOS, Linux, and Android platforms, but currently only the Windows implementation is complete.
