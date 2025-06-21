@@ -38,4 +38,3 @@ Cross-platform HTML/CSS/JS widget engine written in Python using PyQt6.
 
 ```bash
 pip install .
->>>>>>> 5e7c809 (Start develop branch)
