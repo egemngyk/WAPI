@@ -1,0 +1,19 @@
+{
+  "size": [
+    100,
+    200
+  ],
+  "html": "<div class='content'>dsgsag</div>",
+  "css": "body {margin: 0;padding: 0;overflow: hidden;} .content {width:100px;height:200px;border-radius:25px;background-color:white}",
+  "js": "",
+  "movable": true,
+  "transparent": true,
+  "opacity": 0.5,
+  "second_opacity": 0.2,
+  "block_size": 15,
+  "padding": 20,
+  "position": [
+    35,
+    35
+  ]
+}
